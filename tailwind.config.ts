@@ -11,7 +11,7 @@ const config: Config = {
         container : {
 
           center : true,
-          padding : "15px"
+          padding : "15px",
 
         },
         colors : {

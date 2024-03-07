@@ -16,7 +16,7 @@ export const Testimonial = () => {
                             height={80}
                             alt="user" 
                             />
-                            <h2 className="text-gray-500 font-black text-[30px]">Elsa Doe</h2>
+                            <h2 className="text-gray-500 font-black text-[30px]">Arsalan Ayaz</h2>
                             <p>CEO & FOUNDER</p>
                             <Image 
                             className="inline-block py-2"
